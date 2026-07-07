@@ -1,6 +1,6 @@
 # Claude 深度推理强制执行手册
 
-[![Version](https://img.shields.io/badge/version-v2.2-blue.svg)](https://github.com/ccjingeth/claude-reasoning-handbook/blob/main/CLAUDE.md)
+[![Version](https://img.shields.io/badge/version-v2.3-blue.svg)](https://github.com/ccjingeth/claude-reasoning-handbook/blob/main/CLAUDE.md)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 这是一份帮助 AI 模型进行深度推理的系统级手册，确保每次回答都经过严格的逻辑验证。
@@ -13,6 +13,21 @@
 - **项目级**：`/path/to/project/CLAUDE.md`
 
 ## 核心特性
+
+### 实际应用示例
+- 3个完整的真实场景演示
+- 代码审查、技术选型、Bug修复
+- 展示如何组合使用多条规则
+
+### 规则交互指南
+- 5个常见的规则冲突场景
+- 明确的优先级和处理顺序
+- 实战决策流程
+
+### 常见错误模式库
+- 10种思维陷阱识别
+- 隐式假设、循环论证、确认偏误等
+- 配合自查清单使用
 
 ### 执行流程图
 - 明确的规则执行顺序
@@ -75,6 +90,7 @@
 
 | 版本 | 主要变更 | 日期 |
 |------|---------|------|
+| v2.3 | 新增实际应用示例、规则交互指南、错误模式库 | 2026-07-08 |
 | v2.2 | 新增渐进式采用指南、测试用例9-10 | 2026-07-08 |
 | v2.1 | 流程图、快速通道、违规征兆表 | 2026-07-08 |
 | v2.0 | 新增规则1.5、2.5，7个测试用例 | 2026-07-08 |
